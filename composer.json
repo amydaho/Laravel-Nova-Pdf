@@ -17,7 +17,7 @@
     "require": {
         "php": ">=7.2.5",
         "laravel/nova": "*",
-        "spatie/browsershot": "^3.41"
+        "spatie/browsershot": "^5.0"
     },
     "autoload": {
         "psr-4": {
